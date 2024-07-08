@@ -1,0 +1,10 @@
+<nav><a href="/EduBtn"><button class="button" id="EduBtn">Education</button></a>
+<a href="/ContBtn"><button class="button" id="ContBtn">Contact</button></a></nav>
+<article><div id="Prj"><h2>Projects : </h2> <br><ol>
+<li>ESP32 Webserver (THIS PROJECT):
+<ul><li>Code: <a href="https://github.com/Batman-2003/esp32_assignment_arduino" style="color:aquamarine">github.com/Batman-2003/esp32_assignment_arduino</a></li>
+<li>Video: --</li>
+<li>Description: A simple Webserver on ESP32 Running on PORT 80.</li>
+<li>Hardware: ESP32</li>
+<li>Software: Platformio, Framework: Arduino</li></ul></li></ol></div>
+</article></body></html>
