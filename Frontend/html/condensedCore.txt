@@ -1,0 +1,8 @@
+<html lang="en">
+<head><link href='https://fonts.googleapis.com/css?family=JetBrains Mono' rel='stylesheet'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>html{font-family:'JetBrains Mono';padding-top:2cm;padding-left:20%;padding-right:20%;background-color:#071952;color:whitesmoke}header{text-align:center}aside{float:right}article{float:left}img{border-radius:50px}ul{line-height:32px}a{text-decoration:none}.button{font-size:24px;background-color:#088395;color:whitesmoke;cursor:pointer;text-decoration:none;border-radius:10px;padding:10px}</style></head>
+<body><header><h2>Gaurav Khaire</h2>
+<i><h2>Embedded Engineer</h2></i></header>
+<aside><img src="./gkProfile.jpeg" alt="Profile-Picture" width="200px"><br>
+<center><h2>Gaurav Khaire</h2></center></aside>

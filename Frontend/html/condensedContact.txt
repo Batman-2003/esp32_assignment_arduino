@@ -1,0 +1,9 @@
+<nav><a href="/EduBtn"><button class="button" id="EduBtn">Education</button></a>
+<a href="/PrjBtn"><button class="button" id="PrjBtn" >Projects</button></a></nav>
+<article><div id="Contact">
+<h2>Contact &nbsp;: </h2> <br>
+<ul><li>Email: <a style="color:aquamarine">g4ur4v03@gmail.com</a></li>
+<li>Github: <a href="https://github.com/Batman-2003" style="color:aquamarine">https://github.com/Batman-2003</a></li>
+<li>Youtube: <a href="https://youtube.com/@gauravkhaire56" style="color:aquamarine">https://youtube.com/@gauravkhaire56</a></li>
+<li>Phone: +91 7498782508</li>
+</ul></div></article></body></html>
